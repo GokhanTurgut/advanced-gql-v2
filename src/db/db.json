@@ -28,6 +28,25 @@
       "id": "_vREMHV7uPr3rP7RLrYgm"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Hello",
+      "author": "_vREMHV7uPr3rP7RLrYgm",
+      "createdAt": 1645729417456,
+      "id": "LhV9HVLoj8zioxwwKjegp"
+    },
+    {
+      "message": "First post!",
+      "author": "_vREMHV7uPr3rP7RLrYgm",
+      "createdAt": 1645729553766,
+      "id": "mHUWLJxfvBuG8NiAyAyt-"
+    },
+    {
+      "message": "Another post!",
+      "author": "_vREMHV7uPr3rP7RLrYgm",
+      "createdAt": 1645730448981,
+      "id": "Nb0x039T42juwRf9zL0l7"
+    }
+  ],
   "settings": []
 }
