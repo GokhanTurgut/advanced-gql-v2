@@ -22,3 +22,25 @@ Object {
   },
 }
 `;
+
+exports[`queries me 1`] = `
+Object {
+  "data": Object {
+    "me": Object {
+      "avatar": "http",
+      "createdAt": "1645708035209",
+      "email": "test@test.com",
+      "id": "qi6haU8K48AjaqVvdoe7J",
+      "role": "ADMIN",
+      "verified": false,
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
